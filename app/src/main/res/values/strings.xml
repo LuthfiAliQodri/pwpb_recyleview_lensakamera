@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplikasi List Lensa Kamera</string>
+    <string name="lensakamera_name">Nama Lensa :</string>
+    <string name="brand">Brand :</string>
+    <string name="height">Berat :</string>
+    <string name="garansi">Garansi :</string>
+    <string name="harga">Harga :</string>
+    <string name="description">Deskripsi :</string>
+    <string name="readmore">Buy </string>
+    <string name="share">Share</string>
+    <string name="list">List</string>
+    <string name="with_cardview">With CardView</string>
+</resources>
